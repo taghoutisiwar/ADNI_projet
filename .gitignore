@@ -1,0 +1,5 @@
+# Données ADNI : ne jamais les publier (conditions d'accès ADNI)
+data/processed/
+__pycache__/
+*.pyc
+.venv/
